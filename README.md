@@ -4,4 +4,4 @@
 2. BerkeleyPresentation: PPT slides and video at UCB.
 3. Document: Related publications and reports.
 4. MASmoteCode: nesC code on the Motes.
-5. Video: Robotic system videso.
+5. Video: Robotic system videos.
